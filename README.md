@@ -68,7 +68,7 @@
 
 - **CyberSecurity**:
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.hackthebox.eu/badge/image/64863" alt="HTB" width="200" height="53"> <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=188011" style='border:none;'></iframe></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.hackthebox.eu/badge/image/64863" alt="HTB" width="200" height="53"> <img src="https://tryhackme-badges.s3.amazonaws.com/st0rmESP.png" alt="TryHackMe" width="200"></p>
 
 
  
