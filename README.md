@@ -75,7 +75,6 @@
 - **Certifications**:
    <div style="display: flex; align-items: center;">
     <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/103728544" alt="EJPTV2" style="width: 100px; margin-right: 100px;">
-	   <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="88dc0f1b-2f6c-473a-8f27-9acb15391f96" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 	<img src="https://github.com/st0rmESP/st0rmESP/blob/main/pt1.png" alt="EJPTV2" style="width: 100px; margin-right: 100px;">
     
 </div>
