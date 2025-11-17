@@ -75,7 +75,7 @@
 - **Certifications**:
    <div style="display: flex; align-items: center;">
     <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/103728544" alt="EJPTV2" style="width: 100px; margin-right: 100px;">
-	<img src="../pt1.png" alt="EJPTV2" style="width: 100px; margin-right: 100px;">
+	<img src="https://github.com/st0rmESP/st0rmESP/blob/main/pt1.png" alt="EJPTV2" style="width: 100px; margin-right: 100px;">
     
 </div>
 
