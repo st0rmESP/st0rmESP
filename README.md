@@ -20,7 +20,6 @@
 - A passionate Self-taught cybersecurity auditor
 - Playing CTF's at spare time
 - Currently learning Programming in different languages by Self
-- Actually EJPTV2 and comming soon HTB CPTS
 
 <br><br>
 
