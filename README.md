@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Álvaro </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Álvaro..&hearts;++;Cyber+Security+Student,;CTF+Entusiast,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Álvaro..&hearts;++;Cyber+Security+Student,;CTF+Enthusiast,;Active+Learner/Researcher,;Love+to+learn+new+stuff..<3"></a>
 </p>
 
 
@@ -74,8 +74,8 @@
 - **Certifications**:
    <div style="display: flex; align-items: center;">
     <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/103728544" alt="EJPTV2" style="width: 100px; margin-right: 100px;">
-	<img src="https://github.com/st0rmESP/st0rmESP/blob/main/pt1.png" alt="EJPTV2" style="width: 100px; margin-right: 100px;">
-	<img src="https://github.com/st0rmESP/st0rmESP/blob/main/cpts.png" alt="EJPTV2" style="width: 100px; margin-right: 100px;">
+	<img src="pt1.png" alt="Certification" style="width: 100px; margin-right: 100px;">
+	<img src="cpts.png" alt="CPTS" style="width: 100px; margin-right: 100px;">
     
 </div>
 
@@ -86,23 +86,21 @@
 <br>
 
 
-## Connect with me: 
+## Connect with me:
 
-<div style="display: flex;">
-    <a href="https://www.twitch.tv/st0rmesp" target="_blank" style="margin-right: 20px;">
+<p align="center">
+    <a href="https://www.twitch.tv/st0rmesp" target="_blank">
         <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" alt="Twitch">
     </a>
-    <a href="https://www.youtube.com/@st0rmxsp" target="_blank" style="margin-right: 20px;">
+    <a href="https://www.youtube.com/@st0rmxsp" target="_blank">
         <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
     </a>
     <a href="https://www.instagram.com/st0rmesp" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
     </a>
-    <a href="mailto:st0rmxsp@gmail.com"" target="_blank" style="margin-right: 20px;">
+    <a href="mailto:st0rmxsp@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
-
-</div>
-
+</p>
 
 
